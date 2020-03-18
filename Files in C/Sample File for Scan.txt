@@ -1,0 +1,8 @@
+Hello Friends,
+My name is atul sharma.
+I have my GitHub profile named AtulSharma786 (Atul Sharma).
+
+Currently I am learning files in C language.
+
+Currently studying at JECRC University jaipur.
+This repositry I have made for practising Files and want to use every funcionaliy inside this topic.
